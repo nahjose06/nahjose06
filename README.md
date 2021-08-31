@@ -1,7 +1,7 @@
 Hi there👋 
 
 # José Navarro
-I'm José, a Software Engineering student from Panama. <br />
+I'm José, a Software Engineering student from Panama. <br /><br />
 I really enjoy learning new technologies, programming languages, frameworks and operating systems.<br /> 
 My main focuses are Software Engineering, Ethical Hacking, Web Programming and Networking.
 
